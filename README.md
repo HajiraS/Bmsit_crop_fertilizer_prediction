@@ -1,0 +1,1 @@
+This project provides real-time crop and fertilizer recommendations using sensor data for Nitrogen (N), Phosphorous (P), Potassium (K), Temperature, Humidity, pH, and Moisture levels. The system integrates with Arduino sensors and uses Streamlit for a modern and interactive UI.
